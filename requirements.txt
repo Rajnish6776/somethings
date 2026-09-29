@@ -1,0 +1,14 @@
+dash
+dash-bootstrap-components
+plotly
+pandas
+numpy
+requests
+pythermalcomfort
+gunicorn
+openmeteo-requests
+requests-cache
+retry-requests
+openpyxl
+scikit-learn
+joblib
